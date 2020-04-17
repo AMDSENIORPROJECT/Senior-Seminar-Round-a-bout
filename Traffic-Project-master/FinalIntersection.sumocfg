@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 03/03/20 14:49:33 by Eclipse SUMO GUI Version 1.4.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\mrala_000\Documents\sumo-1.4.0\bin\Traffic-Project-master\FinalNetwork.net.xml"/>
+        <route-files value="C:\Users\mrala_000\Documents\sumo-1.4.0\bin\Traffic-Project-master\FinalDemand.rou.xml"/>
+    </input>
+
+    <gui_only>
+        <registry-viewport value="true"/>
+    </gui_only>
+
+</configuration>
